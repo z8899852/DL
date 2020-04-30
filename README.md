@@ -115,7 +115,7 @@ tags: 資工碩士課程
 </tr>
     <tr>
     <td>內容</td>
-        <td><a href="">簡報</a></td>
+        <td><a href="https://github.com/z8899852/DL/blob/master/%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A/4050C042-%E5%A4%9A%E9%A1%9E%E5%88%A5%E5%88%86%E9%A1%9E%E5%95%8F%E9%A1%8C.pptx">簡報</a></td>
         <td><a href="">討論</a></td>
 </tr>
 
