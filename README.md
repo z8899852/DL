@@ -84,21 +84,8 @@ tags: 資工碩士課程
         <td><a href="https://github.com/z8899852/DL/blob/master/0409-Regression.md">0409-Regression</a></td>
         <td><a href="https://github.com/taipeitechmmslab/MMSLAB-TF2">課本實作</a></td>
 </tr>
-<tr>
-    <td>0416-crawler</td>
-        <td><a href="">上課講義</a></td>
-        <td><a href="">0416-</a></td>
-</tr>
-<tr>
-    <td>0423-</td>
-        <td><a href="">上課講義</a></td>
-        <td><a href="">0423-</a></td>
-</tr>
-<tr>
-    <td>0430-</td>
-        <td><a href="">上課講義</a></td>
-        <td><a href="">0430-</a></td>
-</tr>
+
+
 </table>
 
 ---
@@ -108,15 +95,20 @@ tags: 資工碩士課程
 <table>
 
 <tr>
-    <td>參考書籍</td>
+    <td>參考內容</td>
         <td><a href="https://www.books.com.tw/products/0010847790?sloc=main">TensorFlow 2.0</a></td>
         <td><a href="https://github.com/taipeitechmmslab/MMSLAB-TF2
 ">程式碼</a></td>
 </tr>
     <tr>
-    <td>內容</td>
-        <td><a href="https://github.com/z8899852/DL/blob/master/%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A/4050C042-%E5%A4%9A%E9%A1%9E%E5%88%A5%E5%88%86%E9%A1%9E%E5%95%8F%E9%A1%8C.pptx">簡報</a></td>
-        <td><a href="">討論</a></td>
+    <td>簡報</td>
+        <td><a href="https://github.com/z8899852/DL/blob/master/%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A/4050C042-%E5%A4%9A%E9%A1%9E%E5%88%A5%E5%88%86%E9%A1%9E%E5%95%8F%E9%A1%8CV1.pptx">4/30簡報-V1</a></td>
+        <td><a href="https://github.com/z8899852/DL/blob/master/%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A/4050C042-%E5%A4%9A%E9%A1%9E%E5%88%A5%E5%88%86%E9%A1%9E%E5%95%8F%E9%A1%8CV2.pptx">5/1簡報-V2</a></td>
+</tr>
+    <tr>
+        <td><a href="https://github.com/z8899852/DL/blob/master/%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A/4050C042-%E5%A4%9A%E9%A1%9E%E5%88%A5%E5%88%86%E9%A1%9E%E5%95%8F%E9%A1%8CV3.pptx">5/3簡報-V3</a></td>
+        <td><a href="https://github.com/z8899852/DL/blob/master/%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A/4050C042-%E5%A4%9A%E9%A1%9E%E5%88%A5%E5%88%86%E9%A1%9E%E5%95%8F%E9%A1%8CV4.pptx">5/4簡報-V4</a></td>
+        <td><a href="https://github.com/z8899852/DL/blob/master/%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A/4050C042-%E5%A4%9A%E9%A1%9E%E5%88%A5%E5%88%86%E9%A1%9E%E5%95%8F%E9%A1%8CV5.pptx">5/5簡報-V5</a></td>
 </tr>
 
 </table>
