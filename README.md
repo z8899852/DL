@@ -108,7 +108,7 @@ tags: 資工碩士課程
     <tr>
         <td><a href="https://github.com/z8899852/DL/blob/master/%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A/4050C042-%E5%A4%9A%E9%A1%9E%E5%88%A5%E5%88%86%E9%A1%9E%E5%95%8F%E9%A1%8CV3.pptx">5/3簡報-V3</a></td>
         <td><a href="https://github.com/z8899852/DL/blob/master/%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A/4050C042-%E5%A4%9A%E9%A1%9E%E5%88%A5%E5%88%86%E9%A1%9E%E5%95%8F%E9%A1%8CV4.pptx">5/4簡報-V4</a></td>
-
+        <td><a href="https://github.com/z8899852/DL/blob/master/%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A/4050C042-%E5%A4%9A%E9%A1%9E%E5%88%A5%E5%88%86%E9%A1%9E%E5%95%8F%E9%A1%8CV5.pptx">5/7簡報-V5</a></td>
 </tr>
 
 </table>
@@ -126,11 +126,6 @@ tags: 資工碩士課程
 </tr>
 
 <tr>
-    <td>0507-</td>
-        <td><a href="">上課講義</a></td>
-        <td><a href="">0507-</a></td>
-</tr>
-    <tr>
     <td>0514-</td>
         <td><a href="">上課講義</a></td>
         <td><a href="">0514-</a></td>
