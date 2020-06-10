@@ -71,12 +71,15 @@ tags: 資工碩士課程
 <td>日期-項目</td>
 <td>上課教材</td>
 <td>上課實作</td>
+        <td></td>
+
 </tr>
 
 <tr>
     <td>0409-tensorflow</td>
         <td><a href="https://colab.research.google.com/drive/1X89YzTkyUS53xkabV6QShDJOMZzeds69#scrollTo=uFbw24htjYoU">上課講義</a></td>
         <td><a href="https://colab.research.google.com/drive/1BFETWIv0ndlnpjMcN5DS_xkLVaUC3fHP#scrollTo=SMfzTJG7xFHq">0409-LogicalGate</a></td>
+        <td></td>
 </tr>
 <tr>
     <td>0409-Regression</td>
@@ -174,7 +177,7 @@ tags: 資工碩士課程
 <tr>
     <td>0604-Transfer Learning</td>
         <td><a href="">上課講義</a></td>
-        <td><a href="">0604-</a></td>
+        <td><a href=""></a></td>
 </tr>
 
 </table>
@@ -195,7 +198,9 @@ tags: 資工碩士課程
     <tr>
     <td>簡報</td>
         <td><a href="https://github.com/z8899852/DL/blob/master/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A/4050C042-%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.pptx">6/10報-V1</a></td>
+        <td></td>
 </tr>
+
 
 </table>
 
