@@ -126,20 +126,39 @@ tags: 資工碩士課程
 </tr>
 
 <tr>
-    <td>0514-</td>
-        <td><a href="">上課講義</a></td>
-        <td><a href="">0514-</a></td>
+    <td>0514-OpenCV</td>
+        <td><a href="https://github.com/MyDearGreatTeacher/AISec_2020/tree/master/opencv">上課講義</a></td>
+        <td></td>
 </tr>
 <tr>
-    <td>0521-</td>
-        <td><a href="">上課講義</a></td>
-        <td><a href="">0521-</a></td>
+    <td>0514-tensorflow</td>
+        <td><a href="https://github.com/MyDearGreatTeacher/DL2020/tree/master/TF2">上課講義</a></td>
+        <td><a href="https://github.com/z8899852/DL/blob/master/0514_tensorflow_unit01.ipynb">0514-TensorFlow 2.0介紹</a></td>
+</tr>
+
+<tr>
+    <td>0528-CNN</td>
+        <td><a href="https://github.com/MyDearGreatTeacher/DL2020/tree/master/CNN">上課講義</a></td>
+        <td><a href=""></a></td>
 </tr>
 <tr>
-    <td>0528-</td>
-        <td><a href="">上課講義</a></td>
-        <td><a href="">0528-</a></td>
+    <td>0528-tensorflow</td>
+        <td><a href="https://www.tensorflow.org/tutorials">官方網站</a></td>
+        <td><a href="https://www.tensorflow.org/tutorials/load_data/images">0528-作業</a></td>
 </tr>
+<tr>
+    <td>0528-1-花</td>
+        <td><a href="https://github.com/z8899852/DL/blob/master/0528_tensorflow_images.ipynb">程式內容</a></td>
+        <td><a href="">整理報告</a></td>
+</tr>
+<tr>
+    <td>0528-2-動物</td>
+        <td><a href="https://github.com/z8899852/DL/blob/master/0528_classification.ipynb">程式內容</a></td>
+        <td><a href="">整理報告</a></td>
+</tr>
+
+
+
 </table>
 
 ## 六月
@@ -153,9 +172,29 @@ tags: 資工碩士課程
 </tr>
 
 <tr>
-    <td>0604-</td>
+    <td>0604-Transfer Learning</td>
         <td><a href="">上課講義</a></td>
         <td><a href="">0604-</a></td>
+</tr>
+
+</table>
+
+---
+
+## 期末考-Object Detection
+
+
+<table>
+
+<tr>
+    <td>參考內容</td>
+        <td><a href="https://www.tensorflow.org/hub/tutorials/object_detection">Object Detection</a></td>
+        <td><a href="https://github.com/tensorflow/hub/blob/master/examples/colab/object_detection.ipynb
+">程式碼github</a></td>
+</tr>
+    <tr>
+    <td>簡報</td>
+        <td><a href="https://github.com/z8899852/DL/blob/master/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A/4050C042-%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.pptx">6/10報-V1</a></td>
 </tr>
 
 </table>
